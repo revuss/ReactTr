@@ -9,7 +9,7 @@ This is a simple React application that generates random advice slips using the 
 
 ## Demo
 
-You can check out a live demo of the project [here](https://example.com).
+You can check out a live demo of the project [here](https://adviceslipsamplepage1.vercel.app/).
 
 ## Getting Started
 
