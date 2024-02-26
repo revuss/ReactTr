@@ -32,18 +32,22 @@ Make sure you have Node.js and npm installed on your machine.
     npm start
     
 1. Navigate to the project directory
+   ```sh
+
     cd adviceslip
 
 2. Install dependencies
+   ```sh
 
     npm install
     
 3. Usage
+   ```sh
 
     1. Start the development server
 
+   ```sh
     npm start
-
     Open your browser and visit http://localhost:3000 to view the application.
 
     ### Contact
