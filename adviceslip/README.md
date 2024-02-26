@@ -31,14 +31,14 @@ Make sure you have Node.js and npm installed on your machine.
     
     npm start
     
-    ### 1. Navigate to the project directory
+1. Navigate to the project directory
     cd adviceslip
 
-    ### 2. Install dependencies
+2. Install dependencies
 
     npm install
     
-    ### Usage
+3. Usage
 
     1. Start the development server
 
