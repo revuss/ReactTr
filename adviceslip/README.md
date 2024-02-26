@@ -31,14 +31,14 @@ Make sure you have Node.js and npm installed on your machine.
     
     npm start
     
-    1. Navigate to the project directory
+    ### 1. Navigate to the project directory
     cd adviceslip
 
-    2. Install dependencies
+    ### 2. Install dependencies
 
     npm install
     
-    Usage
+    ### Usage
 
     1. Start the development server
 
@@ -46,7 +46,5 @@ Make sure you have Node.js and npm installed on your machine.
 
     Open your browser and visit http://localhost:3000 to view the application.
 
-    Contact
+    ### Contact
     sarathteja14@gmail.com
-
-    Project Link: https://github.com/revuss/ReactTr/tree/main/adviceslip
