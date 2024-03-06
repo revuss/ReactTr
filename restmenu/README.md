@@ -2,10 +2,6 @@
 
 This project showcases a menu display implemented using React components and built with Vite.
 
-# Menu Display using React and Vite
-
-This project showcases a menu display implemented using React components and built with Vite.
-
 ## Demo
 
 Check out the [demo](https://react-tr-dusky.vercel.app/) deployed on Vercel.
