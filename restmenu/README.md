@@ -45,28 +45,25 @@ To run this project locally, follow these steps:
 
 1. Clone this repository.
 
-````bash
-git clone <repository-url>
+```bash
+git clone <https://github.com/revuss/ReactTr/tree/main/restmenu>
 
 
 1. Navigate to the project directory
-   ```sh
 
     cd adviceslip
 
 2. Install dependencies
-   ```sh
 
     npm install
 
 3. Usage
 
     Start the development server
-   ```sh
 
-    npm start
+    npm run dev
     Open your browser and visit http://localhost:5173 to view the application.
 
     ### Contact
     sarathteja14@gmail.com
-````
+```
